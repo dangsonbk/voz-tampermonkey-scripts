@@ -21,7 +21,11 @@ function addGlobalStyle(css) {
 
 (function() {
     'use strict';
-    addGlobalStyle('.tooltip--preview .tooltip-content-inner { overflow: auto !important; max-height: 500px}');
-    addGlobalStyle('.tooltip--preview .tooltip-content { width: 1000px; }');
-    addGlobalStyle('.tooltip--preview .tooltip-content-inner .tooltip-content-cover { background: transparent; }');
+
+    var CSS = '\
+  .tooltip--preview .tooltip-content-inner {overflow: auto !important; max-height: 500px} \n \
+  .tooltip--preview .tooltip-content {width: 1000px;} \n \
+  .tooltip--preview .tooltip-content-inner .tooltip-content-cover {background: transparent;}\n \
+          ';
+    addGlobalStyle(CSS);
 })();
