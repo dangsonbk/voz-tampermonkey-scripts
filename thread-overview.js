@@ -5,7 +5,7 @@
 // @description  Overview thread in voz /f
 // @author       https://github.com/dangsonbk
 // @match        https://next.voz.vn/f/*
-// @updateURL    https://gist.githubusercontent.com/dangsonbk/d4a4324d35906633b7d62c746b7932b5/raw
+// @updateURL    https://raw.githubusercontent.com/dangsonbk/voz-tampermonkey-scripts/master/thread-overview.js
 // @grant        none
 // ==/UserScript==
 
