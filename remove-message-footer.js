@@ -25,7 +25,7 @@ function addGlobalStyle(css) {
     'use strict';
 
     var CSS = '\
-    .message-footer {display: none;} \n \
+    .message-signature {display: none;} \n \
           ';
     addGlobalStyle(CSS);
 })();
