@@ -5,6 +5,8 @@
 // @description  Remove message footer in voz /t
 // @author       https://github.com/dangsonbk
 // @match        https://next.voz.vn/t/*
+// @homepage     https://github.com/dangsonbk/voz-tampermonkey-scripts
+// @supportURL   https://github.com/dangsonbk/voz-tampermonkey-scripts
 // @updateURL    https://raw.githubusercontent.com/dangsonbk/voz-tampermonkey-scripts/master/remove-message-footer.js
 // @grant        none
 // ==/UserScript==
